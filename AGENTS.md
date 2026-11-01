@@ -14,6 +14,7 @@ The repo is a curriculum, not a SaaS app. The lessons are the product. Every rul
 
 ## Repo layout
 
+
 ```
 phases/
   NN-phase-slug/
